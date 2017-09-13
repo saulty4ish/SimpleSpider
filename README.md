@@ -1,4 +1,3 @@
 # simple-spider
-一个简单的页面爬虫
-可爬行单个页面抓取其子域名等url
-为渗透测试搜集信息
+
+-u  "url" choose the index to catch urls
