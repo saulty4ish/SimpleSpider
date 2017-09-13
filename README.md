@@ -1,2 +1,4 @@
 # simple-spider
-a simple spider used to catch the urls in sourse.
+一个简单的页面爬虫
+可爬行单个页面抓取其子域名等url
+为渗透测试搜集信息
